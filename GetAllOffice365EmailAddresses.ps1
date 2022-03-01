@@ -1,12 +1,4 @@
-﻿<#
-=============================================================================================
-Name:           List all Office 365 email address using PowerShell
-Version:        1.0
-Website:        m365scripts.com
-Script by:      M365Scripts Team
-For detailed script execution: https://m365scripts.com/microsoft365/get-all-office-365-email-address-and-alias-using-powershell
-============================================================================================
-#>
+﻿
 Param
 (
     [Parameter(Mandatory = $false)]
